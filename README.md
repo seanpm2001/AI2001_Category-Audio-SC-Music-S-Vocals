@@ -11,10 +11,30 @@
 
 This dataset is under development/coming soon.
 
+##### Starter languages
+
+Languages to start with:
+
+> English
+
+> Spanish
+
+> French
+
+> German
+
+> Japanese
+
+> Ukrainian
+
+> Latin
+
+> Greek
+
 **🌱️ This [`README.md`](/README.md) file is a major stub and need significant expansion**
 
 ***
 
-**File version:** `1 (2023, Wednesday, March 15th at 1:26 pm PST)`
+**File version:** `2 (2023, Wednesday, March 15th at 1:47 pm PST)`
 
 ***
